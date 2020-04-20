@@ -9,5 +9,5 @@ echo $texto;
 //DEBUGEAR
 $mi_nombre [] = 'Miguel Gomez';
 $mi_nombre [] = 'Alejandra Villalobos';
-//var_dump($mi_nombre);
+var_dump($mi_nombre);
 ?>
